@@ -1,0 +1,4 @@
+A Network Access Control List (Network ACL) is a virtual firewall that controls inbound and outbound traffic at the subnet level. By default, your account's default network ACL allows all inbound and outbound traffic, but you can modify it by adding your own rules. For custom network ACLs, all inbound and outbound traffic is denied until you add rules to specify which traffic to allow. Explicit deny rules ensures that if a packet doesn't match any of the other rules on the list, the packet is denied.
+
+### Stateless packet filtering
+Network ACLs perform stateless packet filtering, which means they remember nothing and check all packets that cross the subnet border each way: inbound and outbound.

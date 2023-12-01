@@ -1,0 +1,1 @@
+An Availability Zone is a single data center or a group of data centers within a [[AWS Regions|Region]]. Availability Zones are located tens of miles apart from each other. The best practice is to run instances in at least two Availability Zones, so that if an Availability Zone fails, the instance would still be running in the other Availability Zones.

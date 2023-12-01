@@ -1,0 +1,4 @@
+A security group is a virtual firewall that controls inbound and outbound traffic for an [[Amazon EC2]] instance. By default, a security group denies all inbound traffic and allows all outbound traffic. If you have multiple Amazon EC2 instances within the same VPC, you can associate them with the same security group or use different security groups for each instance.
+
+### Stateful packet filtering
+Security groups perform stateful packet filtering, which means they remember previous decisions made for incoming packets. When a packet response for that request returns to the instance, the security group remembers your previous request. The security group allows the response to proceed, regardless of inbound security group rules.
