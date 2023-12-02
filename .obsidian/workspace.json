@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adf1b1a89f32022f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module04/04 Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f534bc53744b285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module04/04 Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cbd391a2eb1bec5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module04/Security groups.md",
+                "file": "Module06/Additional Security Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "c8fbaa0f8cfc70c0",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module04/Security groups.md",
+                "file": "Module06/Additional Security Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module04/Security groups.md",
+                "file": "Module06/Additional Security Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module04/Security groups.md"
+                "file": "Module06/Additional Security Services.md"
               }
             }
           }
@@ -171,39 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cbd391a2eb1bec5",
+  "active": "1f534bc53744b285",
   "lastOpenFiles": [
-    "Module04/Network ACL.md",
-    "Module04/Security groups.md",
-    "Module04/04 Networking.md",
-    "Module04/Subnets.md",
-    "Module04/Packet.md",
-    "Module04/Connectivity to AWS.md",
-    "Module04/Internet gateway.md",
-    "Module02/Amazon SNS.md",
-    "Module02/Amazon SQS.md",
-    "Module02/AWS Lambda.md",
-    "Module02/Containers (Amazon ECS & Amazon EKS).md",
-    "Module02/Scaling Amazon EC2.md",
-    "Module02/Messaging and Queueing.md",
-    "Module02/Monolithic applications vs Microservices.md",
-    "Module03/03 Global Infrastructure and Reliability.md",
-    "Module03/AWS Availability Zones.md",
-    "Module03/AWS Provisioning.md",
-    "Module03/AWS Regions.md",
     "Module03/Edge Locations.md",
+    "Module06/Additional Security Services.md",
+    "Module06/AWS Organizations.md",
+    "Module06/AWS account root user.md",
+    "Module06/AWS IAM.md",
     "Module02/Amazon EC2.md",
-    "Module02/Elastic Load Balancing.md",
     "Module02/Amazon EC2 pricing.md",
     "Module02/Amazon EC2 Instance Types.md",
-    "Module01/Deployment models for cloud computing.md",
-    "Module01/Cloud computing.md",
-    "Module01/Benefits of cloud computing.md",
+    "Module05/Additional Database Services.md",
+    "Module06/06 Security.md",
+    "Module06/Untitled.md",
+    "Module06/Denial-of-Service.md",
+    "Module06/AWS Shield.md",
+    "AWS.md",
+    "Module04/04 Networking.md",
+    "Module05/05 Storage and Databases.md",
+    "Module04/Connectivity to AWS.md",
+    "Module04/Domain Name System.md",
+    "Module06/Compliance.md",
+    "Module02/Containers (Amazon ECS & Amazon EKS).md",
+    "Untitled.canvas",
+    "Module06/IAM users.md",
+    "Module06/Shared Responsibility Model.md",
+    "Module06/Multi-Factor Authentication.md",
+    "Module06/IAM roles.md",
+    "Module06/IAM policies.md",
+    "Module06/IAM groups.md",
+    "Module06",
     "Module05",
     "Module04",
     "Module03",
     "Module02/Untitled",
-    "Untitled.canvas",
     "Module02",
     "Module01",
     "Modules"

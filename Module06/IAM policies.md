@@ -1,0 +1,1 @@
+An IAM policy is a document that allows or denies permissions to AWS services and resources. IAM policies enable you to customize users' levels of access to resources.

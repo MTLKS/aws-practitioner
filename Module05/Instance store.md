@@ -1,0 +1,1 @@
+An instance store provides temporary block-level storage for an [[Amazon EC2]] instance. An instance store is a disk storage that is physically attached to the host computer for an EC2 instance, and therefore has the same lifespan as the instance. When the instance is terminated, you lost any data in the instance store.

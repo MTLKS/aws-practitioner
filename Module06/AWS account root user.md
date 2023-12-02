@@ -1,0 +1,1 @@
+When you first create an AWS account, you begin with an identity known as the root user. The root user has complete access to all the AWS services and resources in the account.

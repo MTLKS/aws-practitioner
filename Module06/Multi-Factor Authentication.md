@@ -1,0 +1,1 @@
+Multi-Factor Authentication (MFA) provides an extra layer of security for your AWS account. For example, you need to provide your password and then a second form of authentication, such as a random code sent to your phone.

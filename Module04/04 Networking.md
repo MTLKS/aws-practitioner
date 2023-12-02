@@ -12,3 +12,5 @@ Objectives:
 [[Subnets]]
 [[Network ACL]]
 [[Security groups]]
+[[Amazon Route 53]]
+[[Domain Name System]]
