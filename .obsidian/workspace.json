@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03e5cc8e56c9621a",
+        "id": "46a4b5a726fdf512",
         "type": "tabs",
         "children": [
           {
-            "id": "1f534bc53744b285",
+            "id": "13d293544edcc501",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module06/Additional Security Services.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "c8fbaa0f8cfc70c0",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module06/Additional Security Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module06/Additional Security Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Module06/Additional Security Services.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +139,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f534bc53744b285",
+  "active": "13d293544edcc501",
   "lastOpenFiles": [
-    "Module03/Edge Locations.md",
+    "AWS Cloud Practitioner Essentials Modules.md",
+    "Module01/Cloud computing.md",
+    "Module04/Domain Name System.md",
     "Module06/Additional Security Services.md",
+    "Module03/Edge Locations.md",
     "Module06/AWS Organizations.md",
     "Module06/AWS account root user.md",
     "Module06/AWS IAM.md",
@@ -161,11 +157,9 @@
     "Module06/Untitled.md",
     "Module06/Denial-of-Service.md",
     "Module06/AWS Shield.md",
-    "AWS.md",
     "Module04/04 Networking.md",
     "Module05/05 Storage and Databases.md",
     "Module04/Connectivity to AWS.md",
-    "Module04/Domain Name System.md",
     "Module06/Compliance.md",
     "Module02/Containers (Amazon ECS & Amazon EKS).md",
     "Untitled.canvas",
@@ -174,7 +168,6 @@
     "Module06/Multi-Factor Authentication.md",
     "Module06/IAM roles.md",
     "Module06/IAM policies.md",
-    "Module06/IAM groups.md",
     "Module06",
     "Module05",
     "Module04",
