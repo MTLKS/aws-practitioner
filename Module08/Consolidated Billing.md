@@ -1,0 +1,3 @@
+[[AWS Organizations]] provides the option for consolidated billing. This feature enables you to receive a single bill for all AWS accounts in the organization. This way, you can easily track the combined costs of all the linked accounts in the organization. The default maximum number of accounts allowed for an organization is 4, but can be increased by contacting AWS support, if needed.
+
+Another benefit of consolidated bililng is the ability to share bulk discount pricing, Savings Plans, and Reserved Instances across the accounts in your organization.

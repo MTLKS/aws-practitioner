@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46a4b5a726fdf512",
+        "id": "4a7571b8d6900db4",
         "type": "tabs",
         "children": [
           {
-            "id": "13d293544edcc501",
+            "id": "2a380fbdaf6fa869",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "c8fbaa0f8cfc70c0",
@@ -139,42 +138,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13d293544edcc501",
+  "active": "2a380fbdaf6fa869",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Essentials Modules.md",
-    "Module01/Cloud computing.md",
-    "Module04/Domain Name System.md",
-    "Module06/Additional Security Services.md",
-    "Module03/Edge Locations.md",
-    "Module06/AWS Organizations.md",
-    "Module06/AWS account root user.md",
-    "Module06/AWS IAM.md",
-    "Module02/Amazon EC2.md",
+    "Module01/Benefits of cloud computing.md",
+    "Module08/AWS Pricing.md",
+    "Module09/Innovation with AWS.md",
+    "Module09/09 Migration and Innovation.md",
+    "TODO.md",
+    "Module07/AWS Trusted Advisor.md",
     "Module02/Amazon EC2 pricing.md",
     "Module02/Amazon EC2 Instance Types.md",
-    "Module05/Additional Database Services.md",
-    "Module06/06 Security.md",
-    "Module06/Untitled.md",
-    "Module06/Denial-of-Service.md",
-    "Module06/AWS Shield.md",
-    "Module04/04 Networking.md",
-    "Module05/05 Storage and Databases.md",
-    "Module04/Connectivity to AWS.md",
-    "Module06/Compliance.md",
-    "Module02/Containers (Amazon ECS & Amazon EKS).md",
+    "Module10/10 The Cloud Journey.md",
+    "Module10/Well-Architected Framework.md",
+    "Module08/Technical Account Manager.md",
+    "Module08/AWS Support.md",
+    "AWS Cloud Practitioner Essentials Modules.md",
+    "Module10",
+    "Module09/AWS CAF.md",
+    "Module09/AWS Snow Family.md",
+    "Module09/Migration Strategies.md",
+    "Module09",
+    "Module08/AWS Marketplace.md",
+    "Module08/08 Pricing and Support.md",
+    "Module08/AWS Budgets.md",
+    "Module08/Consolidated Billing.md",
+    "Module08/Billing Dashboard.md",
+    "Module08/AWS Free Tier.md",
+    "Module08/AWS Cost Explorer.md",
+    "Module01/Deployment models for cloud computing.md",
+    "Module01/Cloud computing.md",
+    "Module01/Client-server model.md",
+    "Module08",
+    "Module07",
     "Untitled.canvas",
-    "Module06/IAM users.md",
-    "Module06/Shared Responsibility Model.md",
-    "Module06/Multi-Factor Authentication.md",
-    "Module06/IAM roles.md",
-    "Module06/IAM policies.md",
     "Module06",
     "Module05",
     "Module04",
     "Module03",
     "Module02/Untitled",
-    "Module02",
-    "Module01",
-    "Modules"
+    "Module02"
   ]
 }

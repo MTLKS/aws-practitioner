@@ -8,4 +8,3 @@
 [[08 Pricing and Support]]
 [[09 Migration and Innovation]]
 [[10 The Cloud Journey]]
-[[11 AWS Certified Cloud Practitioner Basics]]

@@ -1,0 +1,1 @@
+A Technical Account Manager (TAM) is your primary point of contact at AWS. TAMs educates, empowers, and evolves your cloud journey across the full range of AWS services. TAMs work with customers to review architectures using the [[Well-Architected Framework]].

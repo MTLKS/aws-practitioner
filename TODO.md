@@ -1,0 +1,3 @@
+- Reorganize the notes
+- Revise AWS CAF
+- Revise AWS Trusted Advisor
