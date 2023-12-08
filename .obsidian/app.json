@@ -1,4 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "userIgnoreFilters": [
+    "Others/"
+  ],
+  "showInlineTitle": false
 }

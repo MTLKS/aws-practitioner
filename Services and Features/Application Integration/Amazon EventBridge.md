@@ -1,0 +1,8 @@
+# Amazon EventBridge
+
+## Amazon EventBridge Event Bus
+[Amazon EventBridge Event Bus](https://aws.amazon.com/eventbridge/event-bus/) is a serverless event bus that makes it easier to build event-driven applications at scale using events generated from your applications, third-party software-as-as-service (SaaS) applications, and AWS services. EventBridge Event Bus acts as an event router to route your events - completely decoupling your event sources and targets. You can create rules on the event bus to allow each subscriber to choose which events they want to consume. Rules can also handle routing, retries, and error handling. Using EventBridge Event Bus, you can build loosely coupled applications to enable your development teams to act more independently, speed up development time, and simplify making changes to your applications.
+## Amazon EventBridge Pipes
+[Amazon EventBridge Pipes](https://aws.amazon.com/eventbridge/pipes/) helps you create point-to-point integrations between event producers and consumers with optional transform, filter and enrich steps. EventBridge Pipes reduces the amount of integration code you need to write and maintain when building event-driven applications.
+## Amazon EventBridge Scheduler
+[Amazon EventBridge Scheduler](https://aws.amazon.com/eventbridge/scheduler/) is a serverless scheduler that enables you to schedule tasks and events at scale. With EventBridge Scheduler you have the flexibility to configure scheduling patterns, set a delivery window, and define retry policies to ensure your critical tasks and events are reliably triggered right when you need them.

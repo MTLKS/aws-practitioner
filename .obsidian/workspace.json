@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7571b8d6900db4",
+        "id": "c253ff2a1759121a",
         "type": "tabs",
         "children": [
           {
-            "id": "2a380fbdaf6fa869",
+            "id": "cc9d587a852262bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Services and Features/Application Integration/AWS Step Functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Services and Features/Application Integration/AWS Step Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Services and Features/Application Integration/AWS Step Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Services and Features/Application Integration/AWS Step Functions.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,44 +147,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a380fbdaf6fa869",
+  "active": "cc9d587a852262bf",
   "lastOpenFiles": [
-    "Module01/Benefits of cloud computing.md",
-    "Module08/AWS Pricing.md",
-    "Module09/Innovation with AWS.md",
-    "Module09/09 Migration and Innovation.md",
     "TODO.md",
-    "Module07/AWS Trusted Advisor.md",
-    "Module02/Amazon EC2 pricing.md",
-    "Module02/Amazon EC2 Instance Types.md",
-    "Module10/10 The Cloud Journey.md",
-    "Module10/Well-Architected Framework.md",
-    "Module08/Technical Account Manager.md",
-    "Module08/AWS Support.md",
-    "AWS Cloud Practitioner Essentials Modules.md",
-    "Module10",
-    "Module09/AWS CAF.md",
-    "Module09/AWS Snow Family.md",
-    "Module09/Migration Strategies.md",
-    "Module09",
-    "Module08/AWS Marketplace.md",
-    "Module08/08 Pricing and Support.md",
-    "Module08/AWS Budgets.md",
-    "Module08/Consolidated Billing.md",
-    "Module08/Billing Dashboard.md",
-    "Module08/AWS Free Tier.md",
-    "Module08/AWS Cost Explorer.md",
-    "Module01/Deployment models for cloud computing.md",
+    "Services and Features/Application Integration/AWS Step Functions.md",
+    "Others/AWS services and features.md",
+    "Services and Features/Application Integration/Amazon SQS.md",
+    "Services and Features/Application Integration/Amazon SNS.md",
+    "Services and Features/Analytics/Amazon Redshift.md",
+    "Services and Features/Analytics/Amazon QuickSight.md",
+    "Services and Features/Analytics/Amazon OpenSearch Service.md",
+    "Services and Features/Analytics/Amazon MSK.md",
+    "Services and Features/Analytics/Amazon Kinesis.md",
+    "Services and Features/Analytics/Amazon EMR.md",
+    "Services and Features/Analytics/Amazon Athena.md",
+    "Services and Features/Application Integration/Amazon EventBridge.md",
+    "Services and Features/Application Integration",
+    "Services and Features/Analytics/AWS Data Exchange.md",
+    "Services and Features/Analytics/AWS Glue.md",
+    "Services and Features/Analytics/Untitled.md",
+    "Others/Technologies and Concepts.md",
+    "Module05/Amazon S3.md",
     "Module01/Cloud computing.md",
+    "Screenshot 2023-12-08 at 21.50.59.png",
+    "Module01/Deployment models for cloud computing.md",
     "Module01/Client-server model.md",
+    "Module01/Benefits of cloud computing.md",
+    "Services and Features/Analytics",
+    "Services and Features",
+    "Others/AWS Cloud Practitioner Essentials Modules.md",
+    "Others/Modules/10 The Cloud Journey.md",
+    "Others/Modules/08 Pricing and Support.md",
+    "Others/Modules/07 Monitoring and Analytics.md",
+    "Others",
+    "Others/Modules",
+    "Module10",
+    "Module09",
     "Module08",
     "Module07",
     "Untitled.canvas",
-    "Module06",
-    "Module05",
-    "Module04",
-    "Module03",
-    "Module02/Untitled",
-    "Module02"
+    "Module06"
   ]
 }
