@@ -1,3 +1,7 @@
+# Amazon EC2 pricing
+
+#essentials 
+
 ### On-Demand
 Ideal for short-term, irregular workloads that cannot be interrupted. No upfront costs or minimum contracts apply. The instances run continuously until you stop them, and you pay for only the compute time you use.
 

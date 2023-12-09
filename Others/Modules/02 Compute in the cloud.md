@@ -14,4 +14,4 @@ Objectives:
 
 Additional Compute Services:
 [[AWS Lambda]]
-[[Containers (Amazon ECS & Amazon EKS)]]
+[[AWS Fargate]]

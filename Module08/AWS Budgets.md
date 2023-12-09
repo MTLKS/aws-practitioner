@@ -1,1 +1,0 @@
-In AWS Budgets, you can create budgets to plan your service usage, service costs, and instance reservations. You can set custom alerts when your usage exceeds (or is forecasted to exceed) the budgeted amount. The information in AWS Budgets updates three times a day.

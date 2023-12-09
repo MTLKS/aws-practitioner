@@ -1,0 +1,2 @@
+### AWS Fargate
+A serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS. When using AWS Fargate, you do not need to provision or manage servers, as it manages the server infrastructure for you.

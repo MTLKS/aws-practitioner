@@ -1,3 +1,7 @@
+# Amazon EC2 Instance Types
+
+#essentials 
+
 ### General purpose instance
 Provides a balance of compute, memory and networking resources. Use them for a variety of workloads, such as application servers, gaming servers, backend servers for enterprise applications, and small and medium databases.
 

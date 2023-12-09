@@ -1,4 +1,8 @@
-Amazon Elastic Compute Cloud (Amazon EC2) provides secure, resizable compute capacity in the cloud as Amazon EC2 instances.
+# Amazon EC2
+
+#essentials 
+
+[Amazon Elastic Compute Cloud (Amazon EC2)](https://aws.amazon.com/ec2/) provides secure, resizable compute capacity in the cloud as Amazon EC2 instances.
 
 Benefits:
 - You can provision and launch an Amazon EC2 instance within minutes.

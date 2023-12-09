@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c253ff2a1759121a",
+        "id": "03ec5cdd837316fa",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9d587a852262bf",
+            "id": "f528826de9172cec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Services and Features/Application Integration/AWS Step Functions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Services and Features/Application Integration/AWS Step Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Services and Features/Application Integration/AWS Step Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Services and Features/Application Integration/AWS Step Functions.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,45 +139,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc9d587a852262bf",
+  "active": "f528826de9172cec",
   "lastOpenFiles": [
-    "TODO.md",
-    "Services and Features/Application Integration/AWS Step Functions.md",
     "Others/AWS services and features.md",
-    "Services and Features/Application Integration/Amazon SQS.md",
-    "Services and Features/Application Integration/Amazon SNS.md",
-    "Services and Features/Analytics/Amazon Redshift.md",
-    "Services and Features/Analytics/Amazon QuickSight.md",
-    "Services and Features/Analytics/Amazon OpenSearch Service.md",
-    "Services and Features/Analytics/Amazon MSK.md",
-    "Services and Features/Analytics/Amazon Kinesis.md",
-    "Services and Features/Analytics/Amazon EMR.md",
-    "Services and Features/Analytics/Amazon Athena.md",
-    "Services and Features/Application Integration/Amazon EventBridge.md",
+    "Services and Features/Developer Tools/AWS CodeStar.md",
+    "Services and Features/Developer Tools/AWS CodePipeline.md",
+    "Services and Features/Developer Tools/AWS X-Ray.md",
+    "Services and Features/Developer Tools/AWS CodeDeploy.md",
+    "Services and Features/Developer Tools/AWS CodeBuild.md",
+    "Services and Features/Developer Tools/AWS CodeCommit.md",
+    "Services and Features/Developer Tools/AWS CloudShell.md",
+    "Services and Features/Developer Tools/AWS CodeArtifact.md",
+    "Module03/AWS Provisioning.md",
+    "Services and Features/Developer Tools/AWS CLI.md",
+    "Module04/Connectivity to AWS.md",
+    "Services and Features/Developer Tools/AWS Cloud9.md",
+    "Module03/AWS Availability Zones.md",
+    "Module02/AWS Fargate.md",
+    "Module02/Monolithic applications vs Microservices.md",
+    "Module02/Elastic Load Balancing.md",
+    "Module02/Messaging and Queueing.md",
+    "Module04/Security groups.md",
+    "Module06/Multi-Factor Authentication.md",
+    "Module06/Shared Responsibility Model.md",
+    "Module06/IAM users.md",
+    "Module06/IAM roles.md",
+    "Module06/IAM policies.md",
+    "Module06/IAM groups.md",
+    "Module06/Denial-of-Service.md",
+    "Services and Features/Developer Tools",
+    "Services and Features/Database",
+    "Services and Features/Customer Engagement",
+    "Services and Features/Containers",
+    "Services and Features/Compute/Amazon EC2",
+    "Services and Features/Compute",
+    "Services and Features/Cloud Financial Management",
+    "Services and Features/Business Applications",
     "Services and Features/Application Integration",
-    "Services and Features/Analytics/AWS Data Exchange.md",
-    "Services and Features/Analytics/AWS Glue.md",
-    "Services and Features/Analytics/Untitled.md",
-    "Others/Technologies and Concepts.md",
-    "Module05/Amazon S3.md",
-    "Module01/Cloud computing.md",
     "Screenshot 2023-12-08 at 21.50.59.png",
-    "Module01/Deployment models for cloud computing.md",
-    "Module01/Client-server model.md",
-    "Module01/Benefits of cloud computing.md",
     "Services and Features/Analytics",
-    "Services and Features",
-    "Others/AWS Cloud Practitioner Essentials Modules.md",
-    "Others/Modules/10 The Cloud Journey.md",
-    "Others/Modules/08 Pricing and Support.md",
-    "Others/Modules/07 Monitoring and Analytics.md",
-    "Others",
-    "Others/Modules",
-    "Module10",
-    "Module09",
-    "Module08",
-    "Module07",
-    "Untitled.canvas",
-    "Module06"
+    "Untitled.canvas"
   ]
 }
