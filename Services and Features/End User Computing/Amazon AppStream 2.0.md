@@ -1,0 +1,3 @@
+# AWS AppStream 2.0
+
+[AppStream 2.0](https://aws.amazon.com/appstream2/) is an AWS End User Computing (EUC) service that can be configured for **SaaS application streaming** or delivery of **virtual desktops with selective persistence**. When AppStream 2.0 is used for virtual desktops, saved files and application settings remain persistent between user sessions, and a fresh virtual desktop is assigned to the user every time they log on.

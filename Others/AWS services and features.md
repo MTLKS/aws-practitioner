@@ -58,44 +58,44 @@
 - [[AWS CodeStar]]
 - [[AWS X-Ray]]
 #### End User Computing:
-- Amazon AppStream 2.0
-- Amazon WorkSpaces
-- Amazon WorkSpaces Web
+- [[Amazon AppStream 2.0]]
+- [[Amazon WorkSpaces]]
+- [[Amazon WorkSpaces Web]]
 #### Frontend Web and Mobile:
-- AWS Amplify
-- AWS AppSync
-- AWS Device Farm
+- [[AWS Amplify]]
+- [[AWS AppSync]]
+- [[AWS Device Farm]]
 #### Internet of Things (IoT):
-- AWS IoT Core
-- AWS IoT Greengrass
+- [[AWS IoT Core]]
+- [[AWS IoT Greengrass]]
 #### Machine Learning:
-- Amazon Comprehend
-- Amazon Kendra
-- Amazon Lex
-- Amazon Polly
-- Amazon Rekognition
-- Amazon Sagemaker
-- Amazon Textract
-- Amazon Transcribe
-- Amazon Translate
+- [[Amazon Comprehend]]
+- [[Amazon Kendra]]
+- [[Amazon Lex]]
+- [[Amazon Polly]]
+- [[Amazon Rekognition]]
+- [[Amazon Sagemaker]]
+- [[Amazon Textract]]
+- [[Amazon Transcribe]]
+- [[Amazon Translate]]
 #### Management and Governance:
-- AWS Auto Scaling
-- AWS CloudFormation
-- AWS CloudTrail
-- Amazon CloudWatch
-- AWS Compute Optimizer
-- AWS Config
-- AWS Control Tower
-- AWS Health Dashboard
-- AWS Launch Wizard
-- AWS License Manager
-- AWS Management Console
-- AWS Organizations
-- AWS Resource Groups and Tag Editor
-- AWS Service Catalog
-- AWS Systems Manger
-- AWS Trusted Advisor
-- AWS Well-Architected Tool
+- [[AWS Auto Scaling]]
+- [[AWS CloudFormation]]
+- [[AWS CloudTrail]]
+- [[Amazon CloudWatch]]
+- [[AWS Compute Optimizer]]
+- [[AWS Config]]
+- [[AWS Control Tower]]
+- [[AWS Health Dashboard]]
+- [[AWS Launch Wizard]]
+- [[AWS License Manager]]
+- [[AWS Management Console]]
+- [[AWS Organizations]]
+- [[AWS Resource Groups and Tag Editor]]
+- [[AWS Service Catalog]]
+- [[AWS Systems Manger]]
+- [[AWS Trusted Advisor]]
+- [[AWS Well-Architected Tool]]
 #### Migration and Transfer:
 - AWS Application Discovery Service
 - AWS Application Migration Service

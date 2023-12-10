@@ -1,0 +1,3 @@
+# Amazon WorkSpaces Web
+
+[Amazon WorkSpaces Web](https://aws.amazon.com/workspaces/web/) is a low-cost, fully managed, Linux-based service, designed to facilitate secure browser access to internal websites and software-as-a-service (SaaS) applications from existing web browsers, without the administrative burden of managing infrastructure, specialized client software, or virtual private network (VPN) connections. WorkSpaces Web works with [Amazon WorkSpaces Thin Client](https://aws.amazon.com/workspaces/thin-client/)—improving end-user and IT staff productivity with cost-effective, easy-to-manage, secure access to AWS End User Computing services.

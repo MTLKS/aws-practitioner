@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "03ec5cdd837316fa",
+        "id": "ff498201a968aff4",
         "type": "tabs",
         "children": [
           {
-            "id": "f528826de9172cec",
+            "id": "b233e509fe1b4677",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Others/AWS services and features.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#essentials",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Others/AWS services and features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Others/AWS services and features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Others/AWS services and features.md"
+              }
             }
           }
         ],
@@ -139,45 +147,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f528826de9172cec",
+  "active": "b233e509fe1b4677",
   "lastOpenFiles": [
+    "Services and Features/Management and Governance/AWS Well-Architected Tool.md",
     "Others/AWS services and features.md",
-    "Services and Features/Developer Tools/AWS CodeStar.md",
-    "Services and Features/Developer Tools/AWS CodePipeline.md",
-    "Services and Features/Developer Tools/AWS X-Ray.md",
-    "Services and Features/Developer Tools/AWS CodeDeploy.md",
-    "Services and Features/Developer Tools/AWS CodeBuild.md",
-    "Services and Features/Developer Tools/AWS CodeCommit.md",
-    "Services and Features/Developer Tools/AWS CloudShell.md",
-    "Services and Features/Developer Tools/AWS CodeArtifact.md",
+    "Services and Features/Management and Governance/AWS Systems Manger.md",
+    "Services and Features/Management and Governance/AWS Service Catalog.md",
+    "Others/Technologies and Concepts.md",
+    "Services and Features/Management and Governance/AWS Trusted Advisor.md",
+    "TODO.md",
+    "Services and Features/Management and Governance/AWS License Manager.md",
+    "Services and Features/Management and Governance/AWS Resource Groups and Tag Editor.md",
+    "Module06/Additional Security Services.md",
+    "Services and Features/Management and Governance/AWS Organizations.md",
     "Module03/AWS Provisioning.md",
-    "Services and Features/Developer Tools/AWS CLI.md",
+    "Services and Features/Management and Governance/AWS Launch Wizard.md",
+    "Services and Features/Management and Governance/AWS Management Console.md",
     "Module04/Connectivity to AWS.md",
-    "Services and Features/Developer Tools/AWS Cloud9.md",
-    "Module03/AWS Availability Zones.md",
-    "Module02/AWS Fargate.md",
-    "Module02/Monolithic applications vs Microservices.md",
+    "Services and Features/Management and Governance/AWS Health Dashboard.md",
+    "Services and Features/Management and Governance/AWS Control Tower.md",
+    "Services and Features/Management and Governance/AWS Config.md",
+    "Services and Features/Management and Governance/AWS Compute Optimizer.md",
+    "Services and Features/Management and Governance/AWS CloudTrail.md",
+    "Services and Features/Management and Governance/Amazon CloudWatch.md",
+    "Services and Features/Management and Governance/AWS CloudFormation.md",
+    "Services and Features/Management and Governance/AWS Auto Scaling.md",
+    "Services and Features/Management and Governance",
+    "Module05/Amazon S3.md",
+    "Services and Features/Compute/Amazon EC2/Scaling Amazon EC2.md",
     "Module02/Elastic Load Balancing.md",
-    "Module02/Messaging and Queueing.md",
-    "Module04/Security groups.md",
-    "Module06/Multi-Factor Authentication.md",
-    "Module06/Shared Responsibility Model.md",
-    "Module06/IAM users.md",
-    "Module06/IAM roles.md",
-    "Module06/IAM policies.md",
-    "Module06/IAM groups.md",
-    "Module06/Denial-of-Service.md",
+    "Services and Features/Machine Learning",
+    "Services and Features/Internet of Things",
+    "Services and Features/Frontend Web and Mobile",
+    "Services and Features/End User Computing",
     "Services and Features/Developer Tools",
     "Services and Features/Database",
     "Services and Features/Customer Engagement",
     "Services and Features/Containers",
     "Services and Features/Compute/Amazon EC2",
-    "Services and Features/Compute",
-    "Services and Features/Cloud Financial Management",
-    "Services and Features/Business Applications",
-    "Services and Features/Application Integration",
     "Screenshot 2023-12-08 at 21.50.59.png",
-    "Services and Features/Analytics",
     "Untitled.canvas"
   ]
 }
